@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mrz-zz
-- 👀 I’m interested in ML and DL
-- 🌱 I’m currently learning @ SCU.
+- 👀 I’m interested in DL in Biology & Drug Discovery,
+- 🌱 I’m currently learning at SCU, China.
 
 
